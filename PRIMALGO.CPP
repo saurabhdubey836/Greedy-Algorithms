@@ -72,6 +72,5 @@ d[i]=32767;
 prim();
 getch();
 }
-
-
+// https://www.geeksforgeeks.org/greedy-algorithms-set-5-prims-minimum-spanning-tree-mst-2/
 
